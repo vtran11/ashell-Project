@@ -1,0 +1,21 @@
+
+cd works.
+ls works.
+pwd works.
+ff works.
+up/down works.
+left/right works.
+piping/redirect: we understand but really not sure how to implement the code. 
+
+Here are the external sources that we viewed to help us complete this project:
+ 
+Professor Nitta noncanmode.c file.
+ 
+http://pubs.opengroup.org/onlinepubs/9699919799/basedefs/unistd.h.html
+canonical and noncaninical:http://www.gnu.org/software/libc/manual/html_node/Canonical-or-Not.html
+tcsetattr: http://pubs.opengroup.org/onlinepubs/009695399/functions/tcsetattr.html
+stat: http://pubs.opengroup.org/onlinepubs/007908799/xsh/sysstat.h.html
+permission: http://stackoverflow.com/questions/10323060/printing-file-permissions-like-ls-l-using-stat2-in-c
+dirent: http://pubs.opengroup.org/onlinepubs/7908799/xsh/dirent.h.html
+Recursion: http://www.lemoda.net/c/recursive-directory/
+getenv: http://www.cplusplus.com/reference/cstdlib/getenv/
